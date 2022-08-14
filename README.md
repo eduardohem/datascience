@@ -1,2 +1,2 @@
 # Data Science
-Projeto da Disciplina CAP-394 - INPE
+Projeto Python em Data Science
